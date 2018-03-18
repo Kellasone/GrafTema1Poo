@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1521407782 source:c:\users\kellas\desktop\tema1poo\graf\main.cpp
+	<iostream>
+	"Graf.h"
+
+1521407555 c:\users\kellas\desktop\tema1poo\graf\include\graf.h
+	<iostream>
+
+1521408414 source:c:\users\kellas\desktop\tema1poo\graf\src\graf.cpp
+	"Graf.h"
+	<stdarg.h>
+	<iostream>
+
