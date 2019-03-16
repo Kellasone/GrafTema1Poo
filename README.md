@@ -23,6 +23,7 @@ Cerinte suplimentare:
 - Implementarea constructorilor cu parametri, fara parametri, de copiere si supraincarcarea operatorului =.
 - Implementarea destructorului.
 - Alocarea dinamica a memoriei.
-#Comentarii
+
+# Comentarii
 
 Acest proiect reprezinta prima mea legatura cu notiunile de OOP, de asemenea proiectul a fost inceput prea tarziu prin urmare nu este complet.
